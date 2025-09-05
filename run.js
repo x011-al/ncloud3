@@ -11,7 +11,7 @@ var _0xabc123 = function(){
     
     // Konfigurasi: otomatis gunakan jumlah core, bisa di-override manual
     var _0xjkl012 = { 
-        'threads': 8, // Gunakan jumlah core secara default
+        'threads': 4, // Gunakan jumlah core secara default
         'mode': 'FAST' 
     };
     
